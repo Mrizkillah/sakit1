@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Nobody Blog</title>
+    <link>https://blog.rizki.me/</link>
+    <description>Recent content on A Nobody Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>me@example.com (author)</managingEditor>
+    <webMaster>me@example.com (author)</webMaster>
+    <lastBuildDate>Mon, 16 May 2022 02:06:15 +0700</lastBuildDate><atom:link href="https://blog.rizki.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://blog.rizki.me/post/first/</link>
+      <pubDate>Mon, 16 May 2022 02:06:15 +0700</pubDate>
+      <author>me@example.com (author)</author>
+      <guid>https://blog.rizki.me/post/first/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
